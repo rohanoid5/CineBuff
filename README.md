@@ -1,4 +1,4 @@
-# MovieGuide
+# CineBuff
 An app that lists popular/highest-rated movies. Optimized for tablets.
 
 This app showcases the MVP pattern, RxJava and Uncle Bob Martin's Clean Architecture approach.
